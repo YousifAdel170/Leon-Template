@@ -10,9 +10,9 @@ providing an optimal viewing experience for users on desktops, tablets, and smar
 - About Section: Information about the business, including its history, mission, and team members, with profile pictures and short bios.
 - Contact Section: A functional contact form that allows visitors to send a message directly from the website, along with contact details and a map.
 
-##Main Components:
+## Main Components:
 - HTML5
 - CSS3
 
-##Editor:
+## Editor:
 - VsCode
